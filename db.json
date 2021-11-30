@@ -1,0 +1,11 @@
+
+{
+    "products": [],
+    "categories": [],
+    "person": [
+        { "name": "Manzoni", "cpf": "" },
+        { "name": "Thais", "telefone": "" },
+        { "name": "Rodrigo" },
+        { "name": "Bruno" }
+    ]
+}
