@@ -39,6 +39,270 @@
             ],
             "description": "Meia de lã do Donkey Kong preta com amarelo",
             "discount": 15
+        },
+        {
+            "id": 0,
+            "name": "The Legend of Zelda Skyward Sword",
+            "price": 200,
+            "image": "https://professionalmorondotcom.files.wordpress.com/2019/06/the-legend-of-zelda.jpg",
+            "offer": true,
+            "category": [
+                0,
+                1
+            ],
+            "description": "Junte-se à Link em sua missão emotiva para salvar Zelda, uma amiga de infância que deve enfrentar seu destino. Seu vínculo especial no cerne da história é a melhor esperança do mundo para derrotar a escuridão invasora - e seu poder que ecoará através dos tempos. Embarque em uma missão que define o destino para superar antigas provações e forjar a poderosa Master Sword.",
+            "discount": 2
+        },
+        {
+            "id": 1,
+            "name": "Company of Heroes",
+            "price": 36.99,
+            "image": "https://techbit.pt/wp-content/uploads/2020/09/company-of-heroes-android-ios.jpg",
+            "offer": true,
+            "category": [
+                4,
+                1
+            ],
+            "description": "Com experiência de jogo visceral na 2ª GM, Company of Heroes redefine os RTS ao trazer à vida o sacrifício de soldados heroicos, ambientes devastados pela guerra e campos de batalha dinâmicos.",
+            "discount": 0
+        },
+        {
+            "id": 2,
+            "name": "The Legend of Zelda Breath of the Wild",
+            "price": 240.00,
+            "image": "https://mmovicio.com.br/wp-content/uploads/2021/05/1366_2000.jpg",
+            "offer": true,
+            "category": [
+                0,
+                1,
+                6
+            ],
+            "description": "Esqueça tudo que você sabe sobre os jogos da série The Legend of Zelda. Entre em um mundo de descobertas, exploração e aventura em The Legend of Zelda: Breath of the Wild, o novo jogo da famosa série que veio para romper barreiras. Viaje pelos vastos campos, florestas e montanhas enquanto descobre o que aconteceu com o reino de Hyrule nesta deslumbrante aventura a céu aberto.",
+            "discount": 0
+        },
+        {
+            "id": 3,
+            "name": "XCOM 2",
+            "price": 240.00,
+            "image": "https://images.gog-statics.com/7c1632de7498519c33b422fd7e4af30a33db1ee84529b4a5cd6c708684d56099.jpg",
+            "offer": true,
+            "category": [
+                4,
+                0,
+                6
+            ],
+            "description": "XCOM 2 é um videojogo táctico por turnos produzido pela Firaxis Games e publicado pela 2K Games para Microsoft Windows, OS X e Linux a 5 de fevereiro de 2016. Em XCOM 2 a história tem lugar 20 anos depois dos eventos ocorrido em XCOM: Enemy Unknown, depois do XCOM ter perdido a guerra contra as forças alienígenas.",
+            "discount": 0
+        },
+        {
+            "id": 5,
+            "name": "Hollow Knight",
+            "price": 27.99,
+            "image": "https://playreplay.com.br/wp-content/uploads/2018/08/0b98dabf3d9bc29e31a4dcb3d60dd2652bc165ab1ec70d00c352a275e7145ec7.jpg",
+            "offer": true,
+            "category": [
+                1,
+                2,
+                6
+            ],
+            "description": "Forje seu caminho em Hollow Knight! Uma aventura de ação épica em um vasto reino arruinado de insetos e heróis. Explore cavernas serpenteantes, lute contra criaturas malignas e alie-se a insetos bizarros num estilo clássico 2D desenhado à mão. ",
+            "discount": 0
+        },
+        {
+            "id": 6,
+            "name": "Dishonored",
+            "price": 29.99,
+            "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/205100/capsule_616x353.jpg?t=1598321484",
+            "offer": true,
+            "category": [
+                0,
+                1,
+                6
+            ],
+            "description": "Dishonored se passa na cidade industrial de Dunwall e conta a história de Corvo Atano, um guarda costas lendário da Imperatriz. Ele é vítima de conspiração ao ser acusado de assassiná-la. Forçado a andar nas sombras e se tornar um assassino, Atano recebe o auxílio de Outsider, um ser que lhe concede poderes mágicos.",
+            "discount": 0
+        },
+        {
+            "id": 7,
+            "name": "Dragon's Dogma Dark Arisen",
+            "price": 74.99,
+            "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/367500/capsule_616x353.jpg?t=1594713620",
+            "offer": true,
+            "category": [
+                0,
+                1,
+                6
+            ],
+            "description": "Set in a huge open world, Dragon’s Dogma: Dark Arisen presents a rewarding action combat experience. ",
+            "discount": 0
+        },
+        {
+            "id": 9,
+            "name": "Tom Clancy's Splinter Cell Blacklist",
+            "price": 89.99,
+            "image": "https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1vKNqRkYTeNuLtZfJfyDmn/b659464a7eb666dda9feccef14021b82/scbl-buy-wide_keyart-960x540.jpg",
+            "offer": true,
+            "category": [
+                0
+            ],
+            "description": "The United States has a military presence in two-thirds of countries around the world, and some of them have had enough. A group of terrorists calling themselves The Engineers initiate a terror ultimatum called the Blacklist - a deadly countdown of escalating attacks on U.S. interests.",
+            "discount": 0
+        },
+        {
+            "id": 10,
+            "name": "Remnant From the Ashes",
+            "price": 75.49,
+            "image": "https://www.conversadesofa.com/wp-content/uploads/2020/08/remnant_2abd.jpg",
+            "offer": true,
+            "category": [
+                0,
+                1,
+                6
+            ],
+            "description": "The world has been thrown into chaos by an ancient evil from another dimension. As one of the last remnants of humanity, you must set out alone or alongside up to two other survivors to face down hordes of deadly enemies to try to carve a foothold, rebuild, and retake what was lost. ",
+            "discount": 0
+        },
+        {
+            "id": 11,
+            "name": "Psychonauts 2",
+            "price": 249.00,
+            "image": "https://compass-ssl.xbox.com/assets/01/83/018368ec-fd35-4699-9b3c-3a782edf926c.jpg?n=984302_GLP-Page-Hero-0_1083x609.jpg",
+            "offer": true,
+            "category": [
+                0,
+                1,
+                2
+            ],
+            "description": "Dishonored se passa na cidade industrial de Dunwall e conta a história de Corvo Atano, um guarda costas lendário da Imperatriz. Ele é vítima de conspiração ao ser acusado de assassiná-la. Forçado a andar nas sombras e se tornar um assassino, Atano recebe o auxílio de Outsider, um ser que lhe concede poderes mágicos.",
+            "discount": 0
+        },
+        {
+            "id": 12,
+            "name": "Resident Evil Revelations 2",
+            "price": 74.99,
+            "image": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_ResidentEvilRevelations2_image1600w.jpg",
+            "offer": true,
+            "category": [
+                0,
+                1
+            ],
+            "description": "RE Revelations 2 traz de volta a experiência essencial de survival horror, enquanto apresenta verdades perturbadoras ",
+            "discount": 0
+        },
+        {
+            "id": 13,
+            "name": "Murder Mystery Machine",
+            "price": 37.99,
+            "image": "https://cdn.akamai.steamstatic.com/steam/apps/930280/capsule_616x353.jpg?t=1629884393",
+            "offer": true,
+            "category": [
+                1
+            ],
+            "description": "Junta-te à District Crime Agency neste thriller noir e moderno com visão isométrica. Explora as cenas do crime através de diaporamas complexos, organiza as tuas provas de forma inteligente, pondera entre o bem e o mal e apresenta as tuas hipóteses. Tens o estofo de um verdadeiro detetive?",
+            "discount": 0
+        },
+        {
+            "id": 14,
+            "name": "Monster Hunter World",
+            "price": 69.43,
+            "image": "https://i.ytimg.com/vi/q3SSWTqr850/maxresdefault.jpg",
+            "offer": true,
+            "category": [
+                0,
+                1,
+                6
+            ],
+            "description": "Conheça o Novo Mundo! Em Monster Hunter: World, o jogo mais recente da série, você pode curtir a experiência máxima de caçada, usando tudo à sua disposição para caçar monstros em um novo mundo repleto de surpresas e emoções.",
+            "discount": 0
+        },
+        {
+            "id": 15,
+            "name": "Valorant",
+            "price": 0,
+            "image": "https://img.redbull.com/images/c_limit,w_1500,h_1000,f_auto,q_auto/redbullcom/2020/6/2/akoqciwp4hrh5fhrbuba/games-valorant-capa",
+            "offer": true,
+            "category": [
+                0
+            ],
+            "description": "VALORANT é um FPS competitivo 5x5 com personagens da Riot Games. Disponível globalmente. Domine várias armas e habilidades diferentes e mostre do que é capaz. Jogadas táticas. Alta letalidade. Esports. 5x5. Jogo em Equipe. Gratuito. ",
+            "discount": 0
+        },
+        {
+            "id": 16,
+            "name": "Baldur's Gate 3",
+            "price": 199.99,
+            "image": "https://d3a1b16i91oc1g.cloudfront.net/article_title_medium/1a7ac7e72421d13a35a24339b8548092.jpeg",
+            "offer": true,
+            "category": [
+                1,
+                6
+            ],
+            "description": "Gather your party, and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power.",
+            "discount": 0
+        },
+        {
+            "id": 17,
+            "name": "Forza Horizon 4",
+            "price": 99.99,
+            "image": "https://compass-ssl.xbox.com/assets/6a/31/6a31393d-b0cc-4833-8e82-fd3a2c6b6e19.jpg?n=FH4_GLP-Page-Hero-1084_1920x1080_02.jpg",
+            "offer": true,
+            "category": [
+                3
+            ],
+            "description": "Dishonored se passa na cidade industrial de Dunwall e conta a história de Corvo Atano, um guarda costas lendário da Imperatriz. Ele é vítima de conspiração ao ser acusado de assassiná-la. Forçado a andar nas sombras e se tornar um assassino, Atano recebe o auxílio de Outsider, um ser que lhe concede poderes mágicos.",
+            "discount": 0
+        },
+        {
+            "id": 18,
+            "name": "DayZ",
+            "price": 119.99,
+            "image": "https://cdn.akamai.steamstatic.com/steam/apps/221100/capsule_616x353.jpg?t=1637681887",
+            "offer": true,
+            "category": [
+                0
+            ],
+            "description": "Quanto você aguenta em um mundo pós-apocalíptico? Uma terra arrasada por 'zumbis' infectados, onde você compete com outros sobreviventes por recursos limitados. Você vai ajudar estranhos em sua luta? Ou evitará traições como um lobo solitário? Esse é o DayZ. Essa é a sua história",
+            "discount": 0
+        },
+        {
+            "id": 19,
+            "name": "Dishonored",
+            "price": 29.99,
+            "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/205100/capsule_616x353.jpg?t=1598321484",
+            "offer": true,
+            "category": [
+                0,
+                1,
+                6
+            ],
+            "description": "Dishonored se passa na cidade industrial de Dunwall e conta a história de Corvo Atano, um guarda costas lendário da Imperatriz. Ele é vítima de conspiração ao ser acusado de assassiná-la. Forçado a andar nas sombras e se tornar um assassino, Atano recebe o auxílio de Outsider, um ser que lhe concede poderes mágicos.",
+            "discount": 0
+        },
+        {
+            "id": 20,
+            "name": "BPM: BULLETS PER MINUTE",
+            "price": 37.99,
+            "image": "https://xboxpower-wp.s3.amazonaws.com/wp-content/uploads/2021/04/Hit-BPM-Bullets-Per-Minute-1024x490.png",
+            "offer": true,
+            "category": [
+                0,
+                6
+            ],
+            "description": "BPM é um FPS roguelike de ação rítmica no qual você deve atirar, pular e desviar, ao som de uma trilha sonora épica de rock. Mergulhe em uma masmorra gerada aleatoriamente, na qual uma nota errada pode levar à sua morte.",
+            "discount": 0
+        },
+        {
+            "id": 21,
+            "name": "Divinity: Original Sin 2 ",
+            "price": 27.99,
+            "image": "https://xpgg.com.br/wp-content/uploads/2018/05/Divinity-Original-Sin-2-definitive-edition.jpg",
+            "offer": true,
+            "category": [
+                1,
+                6
+            ],
+            "description": "O RPG aclamado pela crítica que elevou o nível, dos criadores de Baldur's Gate 3. Reúna sua equipe. Domine o intenso combate tático. Aventure-se com uma equipe de até quatro membros, mas saiba que apenas um terá a chance de ascender à Divindade.",
+            "discount": 0
         }
     ],
     "categories": [
@@ -52,31 +316,23 @@
         },
         {
             "id": 2,
-            "name": "RPG"
+            "name": "Plataforma"
         },
         {
             "id": 3,
-            "name": "Sports"
+            "name": "Esportes"
         },
         {
             "id": 4,
-            "name": "MMO"
-        },
-        {
-            "id": 5,
             "name": "Estratégia"
         },
         {
+            "id": 5,
+            "name": "Clássicos"
+        },
+        {
             "id": 6,
-            "name": "Puzzle"
-        },
-        {
-            "id": 7,
-            "name": "FPS"
-        },
-        {
-            "id": 8,
-            "name": "Meia"
+            "name": "RPG"
         }
     ],
     "newsletter": []
