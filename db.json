@@ -1,46 +1,6 @@
 {
     "products": [
         {
-            "id": 1,
-            "name": "GTA V",
-            "price": 199.90,
-            "plataform": "PC",
-            "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/80/Grand_Theft_Auto_V_capa.png/270px-Grand_Theft_Auto_V_capa.png",
-            "offer": false,
-            "category": [
-                7,
-                0
-            ],
-            "description": "When a young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government and the entertainment industry, they must pull off a series of dangerous heists to survive in a ruthless city in which they can trust nobody, least of all each other. Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.",
-            "discount": 0
-        },
-        {
-            "id": 2,
-            "name": "Super Mario 64 - Original Box",
-            "price": 325.90,
-            "plataform": "Nintendo 64",
-            "image": "https://upload.wikimedia.org/wikipedia/en/6/6a/Super_Mario_64_box_cover.jpg",
-            "offer": false,
-            "category": [
-                1
-            ],
-            "description": "Super Mario 64 is a 1996 platform game for the Nintendo 64 and the first Super Mario game to feature 3D gameplay. It was developed by Nintendo EAD and published by Nintendo. Super Mario 64 features 3-dimensional freedom of movement within a large open world based on 3D polygons.",
-            "discount": 10
-        },
-        {
-            "id": 3,
-            "name": "Meia Donkey Kong",
-            "price": 10.99,
-            "plataform": "-",
-            "image": "https://static.riachuelo.com.br/RCHLO/13898086001/portrait/3b04083b72f371511e4d439b077ceb048c81339d.jpg?imwidth=700",
-            "offer": true,
-            "category": [
-                8
-            ],
-            "description": "Meia de lã do Donkey Kong preta com amarelo",
-            "discount": 15
-        },
-        {
             "id": 0,
             "name": "The Legend of Zelda Skyward Sword",
             "price": 200,
@@ -303,6 +263,46 @@
             ],
             "description": "O RPG aclamado pela crítica que elevou o nível, dos criadores de Baldur's Gate 3. Reúna sua equipe. Domine o intenso combate tático. Aventure-se com uma equipe de até quatro membros, mas saiba que apenas um terá a chance de ascender à Divindade.",
             "discount": 0
+        },
+        {
+            "id": 22,
+            "name": "GTA V",
+            "price": 199.90,
+            "plataform": "PC",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/80/Grand_Theft_Auto_V_capa.png/270px-Grand_Theft_Auto_V_capa.png",
+            "offer": false,
+            "category": [
+                7,
+                0
+            ],
+            "description": "When a young street hustler, a retired bank robber and a terrifying psychopath find themselves entangled with some of the most frightening and deranged elements of the criminal underworld, the U.S. government and the entertainment industry, they must pull off a series of dangerous heists to survive in a ruthless city in which they can trust nobody, least of all each other. Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.",
+            "discount": 0
+        },
+        {
+            "id": 23,
+            "name": "Super Mario 64 - Original Box",
+            "price": 325.90,
+            "plataform": "Nintendo 64",
+            "image": "https://upload.wikimedia.org/wikipedia/en/6/6a/Super_Mario_64_box_cover.jpg",
+            "offer": false,
+            "category": [
+                1
+            ],
+            "description": "Super Mario 64 is a 1996 platform game for the Nintendo 64 and the first Super Mario game to feature 3D gameplay. It was developed by Nintendo EAD and published by Nintendo. Super Mario 64 features 3-dimensional freedom of movement within a large open world based on 3D polygons.",
+            "discount": 10
+        },
+        {
+            "id": 24,
+            "name": "Meia Donkey Kong",
+            "price": 10.99,
+            "plataform": "-",
+            "image": "https://static.riachuelo.com.br/RCHLO/13898086001/portrait/3b04083b72f371511e4d439b077ceb048c81339d.jpg?imwidth=700",
+            "offer": true,
+            "category": [
+                8
+            ],
+            "description": "Meia de lã do Donkey Kong preta com amarelo",
+            "discount": 15
         }
     ],
     "categories": [
